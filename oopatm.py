@@ -74,5 +74,5 @@ class Atm:
             print("Invalid PIN.")
             return False
 
-# Create an instance of Atm
+
 atm = Atm()
